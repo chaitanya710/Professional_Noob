@@ -2,8 +2,6 @@ Professional Noob - A Learner's Guide To Programing
 
 Maintained by [Skand Tandon](https://github.com/skandtandon)
 
-Contact: skand [dot] tandon [at] gmail [dot] com
-
 # Professional Noob
 ## A Guide for learners
 

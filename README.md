@@ -8,7 +8,7 @@ Maintained and compiled by [Skand Tandon](https://github.com/skandtandon)
 # Intro
 
 ## What is this?
-This is a highly-opinionated, curated guide to becoming a programmer, with a focus on fullstack web development. I originally wrote this to give some guidance to my friends. Feel free to share or offer suggestions for improvement.
+This is a highly-opinionated, curated guide to becoming a programmer. I originally wrote this to give some guidance to my friends. Feel free to share or offer suggestions for improvement.
 
 ## Who is this for?
 This is written for people who don’t have a strong background in programming and computer science, and are trying to figure out if they want to pursue a career using programming. Usually termed as Noobs by the community .
@@ -18,12 +18,7 @@ I think exploring the world of programming-related careers can be really confusi
 
 This guide is aimed at helping out people with a specific goal of becoming a programmer by giving them a simple plan to follow, reducing choices to a handful of options selected for quality and effectiveness, and providing advice on how to actually go about the whole process.
 
-## Some caveats
-Pretty much everything in this guide is my own opinion. For conciseness, I will not be providing caveats about how certain things are my opinion elsewhere. I may omit some things. I may also be inaccurate or flat-out wrong about some things. I’m not perfect, and neither is this guide. Caveat emptor.
-
-## Why Professional Noob?
-
-Professional Noob as the name suggest is someone who doesn't know much and act without thinking something which i was once coined with, now a badge I wear as my telegram username. Similarly, this guide is meant to lead you on the journey to becoming a programmer.
+## Pretty much everything in this guide is my own opinion. For conciseness, I’m not perfect, and neither is this guide. Caveat emptor.
 
 ## The Plan
 ### Level 1: Intro (2 - 6 weeks)

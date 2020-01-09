@@ -1749,7 +1749,4 @@ Contributing to open source projects is a good way to gain experience and also g
     - Tracks to Relax
     - Unladylike
 =======
-## Credits
-* [Me](https://t.me/professionalnoob)
-* My Experience in the community that made each day worth learning 
->>>>>>> fd80fae61a27c3f20c15e4defad952f2e351a72f
+

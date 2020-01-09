@@ -722,7 +722,6 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Non-Programming Topics
 * [Personal Finance for Engineers](https://cs007.blog/)
 
-<<<<<<< HEAD
 
 # 1. Coding Resources for semi pro programmers (people having some prior experience in the field)
 
@@ -1395,8 +1394,7 @@ Contributing to open source projects is a good way to gain experience and also g
 
 
 
-*-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-**-*-*-*-*-*-*-**-*-*-*-*-*-*
-Aditional Links For people who didn't got bored and still got the thirst to learn 
+###Aditional Links For people who didn't got bored and still got the thirst to learn 
 
 	## Contents
 
@@ -2023,11 +2021,4 @@ Aditional Links For people who didn't got bored and still got the thirst to lear
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 
-## Related
-
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-
-
-=======
 

@@ -722,6 +722,7 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Non-Programming Topics
 * [Personal Finance for Engineers](https://cs007.blog/)
 
+<<<<<<< HEAD
 
 # 1. Coding Resources Language wise 
 
@@ -1747,3 +1748,8 @@ Contributing to open source projects is a good way to gain experience and also g
 - **Other**
     - Tracks to Relax
     - Unladylike
+=======
+## Credits
+* [Me](https://t.me/professionalnoob)
+* My Experience in the community that made each day worth learning 
+>>>>>>> fd80fae61a27c3f20c15e4defad952f2e351a72f

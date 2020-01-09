@@ -1394,7 +1394,7 @@ Contributing to open source projects is a good way to gain experience and also g
 
 
 
-###Aditional Links For people who didn't got bored and still got the thirst to learn 
+##Aditional Links For people who didn't got bored and still got the thirst to learn 
 
 	## Contents
 

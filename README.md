@@ -1301,82 +1301,82 @@ Contributing to open source projects is a good way to gain experience and also g
 ## Top 50 YouTube Channels to Follow
 
 ##  Top 10 in Technology
-|Sr. No. | Channel | No. of Subscribers |
-| --- | ------------- | ----- |
-|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 2.1M |
-|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 1.32M |
-|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) | 1.55M |
-|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) | 1.1M |
-|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) | 1.47M |
-|6 | [sentdex](https://www.youtube.com/user/sentdex/about) | 734K |
-|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 1.57M |
-|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) | 1.63M |
-|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 3.04M |
-|10 | [CppCon](https://www.youtube.com/user/CppCon/about) | 62.9K |
+|Sr. No. | Channel | 
+| --- | ------------- | 
+|1 | [MIT OpenCourseWare](https://www.youtube.com/user/MIT/about) | 
+|2 | [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/about) | 
+|3 | [BostonDynamics](https://www.youtube.com/user/BostonDynamics/about) |
+|4 | [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/about) |
+|5 | [Computerphile](https://www.youtube.com/user/Computerphile/about) |
+|6 | [sentdex](https://www.youtube.com/user/sentdex/about) |
+|7 | [Nptel](https://www.youtube.com/user/nptelhrd/about) | 
+|8 | [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q/about) |
+|9 | [NumberPhile](https://www.youtube.com/user/numberphile/about) | 
+|10 | [CppCon](https://www.youtube.com/user/CppCon/about) |
 
 ---
 
 ##  Top 10 in Startup
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ------ |
-|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) | 15M |
-|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 1.31M |
-|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 131K |
-|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
-|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 100K |
-|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 486K |
-|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) | 39.8K |
-|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) | 198K |
-|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) | 634K |
-|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 45.1K |
+|Sr. No. | Channel | 
+| --- | -------------- | 
+|1 | [TED](https://www.youtube.com/user/TEDtalksDirector/about) |
+|2 | [Tai Loapez](https://www.youtube.com/user/tailopezofficial/about) | 
+|3 | [This Week in Startups](https://www.youtube.com/user/ThisWeekIn/about) | 
+|4 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) |
+|5 | [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg/feed) | 
+|6 | [Tim Ferriss](https://www.youtube.com/user/masterlock77/about) | 
+|7 | [Naval Ravikant](https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg/about) |
+|8 | [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/about) |
+|9 | [Startup Authority](https://www.youtube.com/channel/UCwHZNWLHHT9RlW4F80a9byQ/about) |
+|10 | [Startup Grind](https://www.youtube.com/user/StartupGrind/about) | 
 
 ---
 
 ##  Top 10 in Design
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 936K |
-|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) | 591K |
-|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 300K |
-|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 352K |
-|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) | 189K |
-|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 191K |
-|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 157K |
-|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) | 66K |
-|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) | 141K |
-|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) | 90.8K |
+|Sr. No. | Channel | 
+| --- | -------------- | 
+|1 | [tutvid](https://www.youtube.com/user/tutvid/about) | 
+|2 | [The Futur](https://www.youtube.com/user/TheSkoolRocks/about) |
+|3 | [Spoon Graphics](https://www.youtube.com/channel/UC_mkC8ChfzCJcuSqSMwvUWw/about) | 
+|4 | [Will Paterson](https://www.youtube.com/user/breakdesignsco/about) | 
+|5 | [Skillshare](https://www.youtube.com/user/Skillshare/about) |
+|6 | [Yes I am a Designer](https://www.youtube.com/user/perhiniak/about) | 
+|7 | [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/about) | 
+|8 | [Matt Borchert](https://www.youtube.com/user/ovenrude/about) |
+|9 | [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/about) |
+|10 | [Mike Locke](https://www.youtube.com/user/mlwebco/about) |
 
 ---
 
 ##  Top 10 in Business
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 2.09M |
-|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 2.33M |
-|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 512K |
-|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 898K |
-|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 590K |
-|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 745K |
-|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 1.2M |
-|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 548K |
-|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 274K |
-|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 694K |
+|Sr. No. | Channel |
+| --- | -------------- | 
+|1 | [Business Insider](https://www.youtube.com/user/businessinsider/about) | 
+|2 | [GaryVee](https://www.youtube.com/user/GaryVaynerchuk/about) | 
+|3 | [Entrepreneur](https://www.youtube.com/user/EntrepreneurOnline/about) | 
+|4 | [Brian Tracy](https://www.youtube.com/user/BrianTracySpeaker/about) | 
+|5 | [Marie Forleo](https://www.youtube.com/user/marieforleo/about) | 
+|6 | [Stanford Business](https://www.youtube.com/user/stanfordbusiness/about) | 
+|7 | [Grant Cardone](https://www.youtube.com/user/GrantCardone/about) | 
+|8 | [Young Entrepreneurs Forum](https://www.youtube.com/channel/UCydShVfAub9TSmL1N4BTlGQ/about) | 
+|9 | [Google Small Business](https://www.youtube.com/user/GoogleBusiness/about) | 
+|10 | [Business Casual](https://www.youtube.com/channel/UC_E4px0RST-qFwXLJWBav8Q/about) | 
 
 ---
 
 ##  Top 10 in Finance
-|Sr. No. | Channel | No. of Subscribers |
-| --- | -------------- | ----- |
-|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) | 413K |
-|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) | 354K |
-|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) | 40.6K |
-|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) | 712K |
-|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) | 21.8K |
-|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) | 471K |
-|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) | 348K |
-|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) | 267K |
-|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) | 59.2K |
-|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) | 66.4K |
+|Sr. No. | Channel |
+| --- | -------------- | 
+|1 | [Bloomberg TV Markets and Finance](https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/about) |
+|2 | [Financial Education](https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ/about) |
+|3 | [MoneyTalks News](https://www.youtube.com/user/MoneyTalksNews/about) |
+|4 | [The Financial Diet](https://www.youtube.com/channel/UCSPYNpQ2fHv9HJ-q6MIMaPw/about) |
+|5 | [RICH TV LIVE](https://www.youtube.com/channel/UCrvJc8oOqtQf9MEs_UXsBMQ/about) |
+|6 | [Ryan Scribner](https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/about) |
+|7 | [Financial Times](https://www.youtube.com/user/FinancialTimesVideos/about) |
+|8 | [BeatTheBush](https://www.youtube.com/user/TheBeatTheBush/about) |
+|9 | [Finance Tube](https://www.youtube.com/user/FinanceTubebyVishalT/about) |
+|10 | [Corporate Finance Institute](https://www.youtube.com/channel/UCGtbVv_ACgV7difdVZ92NMw/about) |
 
 ---
 ## Miscellaneous Resources
@@ -1390,4 +1390,273 @@ Contributing to open source projects is a good way to gain experience and also g
     - [DesignCourse](https://www.youtube.com/user/DesignCourse)
 
 
+## There are always going to be some new course so I want to add them too
 
+ - [all_in_one](https://drive.google.com/drive/mobile/folders/0B6RiB8cVZQhmTDZvN0JadGtScGs/0ByWO0aO1eI_MN1BEd3VNRUZENkU)
+ - [all_in_one2](https://drive.google.com/drive/u/0/mobile/folders/0B3Qd1rlyIyR5TGlyYmlsSHBlcVU)
+ - [all_in_one3](https://drive.google.com/folderview?id=0ByWO0aO1eI_Md0RwS1RzbWlHUWM)
+ - [c#_yt]](https://youtu.be/GhQdlIFylQ8)
+ - [c_projects](https://drive.google.com/folderview?id=1-nObQc4oOPcKqd88yrSvty80D9nWyEyt)
+ - [ethical_hacking_yt](https://youtu.be/dz7Ntp7KQGA)
+ - [full_stack_yt](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
+ - [game_dev](https://www.udemy.com/course/game-development-with-construct-23-master-course/)
+ - [java_yt](https://youtu.be/hBh_CC5y8-s)
+ - [javascript_yt](https://youtu.be/PkZNo7MFNFg)
+ - [learning_suggestions](https://pastebin.com/dxnrRzeb)
+ - [php_courses](https://drive.google.com/drive/u/0/mobile/folders/0ByWO0aO1eI_MV0lhX1dkUlQ3YUk)
+ - [php_yt](https://youtu.be/OK_JCtrrv-c)
+ - [python_pandas_yt](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+ - [python_yt](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+ - [sql](https://drive.google.com/drive/mobile/folders/1ZNRzpJl-0n5sG5UeWH9lK_maCLui0-X7?usp=drive_open)
+ - [swift_yt](https://youtu.be/Ulp1Kimblg0)
+ - [udemy_free](https://pastebin.com/u24DKjSr)
+ 
+ 
+ #  Hackathons and Events
+
+##  Top Global Hackathons 🌐
+
+
+|Id |Name | Place| Travel Reimbursement |Application Start | Application End | Event Date |
+|--|------ |---|---| ------ | ----| ----- |
+|1 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 2019 | Jul 2019 | Jul 29 2019 |
+|2 | [Capgemini Tech Challenge](https://techchallenge.in.capgemini.com/) | India | - | Sept-Oct | - | Ended |
+|3 | [Conuhacks](http://www.conuhacks.io/) | Canada | - | - |  - | 1/26/2019 |
+|4 | [Djangothon 2018](https://www.hackerearth.com/sprints/djangothon-2018/) | Bengaluru, India | - | - | - | 11/17/18 |
+|5 | [Facebook Hackathon](https://devcommunitychallenge.devpost.com/) | Online | NA | - | - | n/a |
+|6 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - | Dead page |
+|7 | [Hack In The North](https://www.hackinthenorth.com/)| India | - | - | March | N/A |
+|8 | [Hack Western](https://hackwestern.com/) | Western University | Yes  | Nov End | Mid Oct | 11/23/18 |
+|9 | [HackDTU](http://hackdtu.tech/) | India | No | - | - | Ended |
+|10 | [HackDavis](http://hackdavis.io/)|USA | - |  - |   - | N/A |
+|11 | [HackDuke](http://www.hackduke.com/) | USA | - | - | - | Dead page |
+|12 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | India | No | August-September | - | Ended |
+|13 | [Hackinit](https://hackinit.org/) | China | - | - |  - | Ended |
+|14 | [HackISU](https://hackisu.org/)| USA | No | October | - | Ended |
+|15 | [HackMIT](https://hackmit.org/)   | USA | Yes|Mid Sept | July end | Ended |
+|16 | [HackNC](https://hacknc.com) | USA | Yes (on a case by case basis) | Check website | Week before event | Ended, 2019 is open for pre-reg |
+|17 | [HackNY](http://hackny.org/hackathon/) | USA | Yes | - | - | Ended |
+|18 | [HackPrinceton](https://www.hackprinceton.com/)|USA | - | - |  - | 11/9/18 |
+|19 | [HacktheNorth](http://pennapps.com/)| Canada| Yes|Mid Sept | July end | Ended |
+|20 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Online | - | - |  - | Annually every October |
+|21 | [HackUCI](https://www.hackuci.com/) | USA | - | - |  - | N/A |
+|22 | [Hackdotslash](https://hackdotslash.co.in/) | India | - | February |  - | 2019 |
+|23 | [HackHers](https://ruhackhers.org/) | New Brunswick | - | February |  - | 2019 |
+|24 | [WiHacks](https://wichacks.io/) | New York | - | March |  - | 2019 |
+|25 | [Techtogether](https://boston.techtogether.io/) | Boston | - | March |  - | 2019 |
+|26 | [Hack & Soehne](https://hackundsoehne.de/)| Germany| Yes | - | - | Several events during the year |
+|27 | [Major League Hacking](https://mlh.io/seasons/na-2019/events)| Canada, USA, Mexico | - | - | - | Many events during the year |
+|28 | [START Hack](https://starthack.ch/)| Switzerland| - | - | - | 8-10 March, 2019 |
+
+
+
+----------------------------------------------------------
+
+##  Competitions 🏆
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1 | [Accenture Innovation Challenge](https://accentureinnovationchallenge.com/) | Online & Onsite |
+|2 | [ACM - ICPC](https://www.codechef.com/icpc/2020) | Online & On-Site |
+|3 | [CodersBit](https://www.interviewbit.com/codersbit/) | Online |
+|4 | [Facebook Hacker Cup](https://www.facebook.com/hackercup/) | Online |
+|5 | [Code Gladiators](https://www.techgig.com/codegladiators) | Online & Onsite |
+|6 | [E-Yantra](http://www.e-yantra.org/) | Online & Onsite |
+|7 | [Red Bull Basement University](https://www.redbull.com/in-en/projects/red-bull-basement-university) | - |
+|8 | [Shell Ideas360](https://bit.ly/14iPmYn)| Online & Onsite |
+|9 | [Sony World Photography Awards – Youth Award](https://bit.ly/193GCTt) | Online |
+|10| [Doodle 4 Google](https://doodles.google.com/d4g/) | Online |
+|11| [UN - Volunteer](http://in.one.un.org/who-we-are/unv-india/) | -  |
+|12| [India Innovation Challenge - IICDC](https://innovate.mygov.in/india-innovation-challenge-design-contest-2018/) |Online & Onsite |
+|13| [Quest Ingenium](https://www.questingenium.com/) | -  |
+|14| [ROBOCON](http://aburobocon2019.mnb.mn/en) | Onsite |
+
+
+
+##    Hackathon Search Portals :dart:
+|s.no| Name  | Location | Category |
+|---| ------ |---| --- |
+|1| [HackSociety](https://hacksociety.tech/attend/)| India | ALL |
+|2| [DevPost](https://devpost.com/hackathons) | Online & On-site | ALL |
+|3| [HackerEarth](https://hackerearth.com/) | Online & On-site | ALL |
+|4| [Hackathon.io](http://www.hackathon.io/events) | Global | ALL |
+|5| [TechGIG - Search Online Competitions]()| Online & On-Site |ALL |
+|6| [Analytical Vidya](https://www.analyticsvidhya.com/) | Online & On-Site | Data Science | |
+|7| [Hackathon.com](https://www.hackathon.com/) [Online & On-site] | Global | ALL |
+|8| [Dare2compete](https://dare2compete.com/bites) | Online & On-site | India | ALL |
+##  Events 🎫
+
+> **Check out these events for your region**
+
+1. Google Developer Day - Organized by GDG
+2. Google IO extended - Organized by GDG
+3. Google Solve for India
+3. Paytm Build for India Workshops [ Delhi, Bangalore ]
+4. NVIDIA Developer Connect [ Global ]
+5. AWS meetups [ Global ]
+6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
+7. Hackathon at the NS [Netherlands] https://werkenbijns.nl/hackathon/
+8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+
+##  Startup Summits, Competitions and Bootcamps :neckbeard:
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Eureka - IITB](http://www.ecell.in/eureka/)| Mumbai, INDIA |
+|2| [MIT - Entrepreneurship Bootcamp](http://bootcamp.mit.edu/entrepreneurship/)  | Online & USA |
+|3 | [Startup Grind Global Conference](http://www.startupgrind.com/conference/#/) | Redwood City, California |
+|4 | [Next Gen Summit](https://www.marketing.org/conference/show/id/BMAANC2018) | New York |
+|5 | [Y Combinator's Startup School](https://www.startupschool.org/) | Online |
+|6 | [School of AI](https://picampus-school.com/programme/school-of-ai/) | Rome, Italy |
+|7 | [European Innovation Academy](https://www.inacademy.eu/) | Portugal, China |
+|8 | [Startup Weekend - DTU](http://www.ecelldtu.in/) | Delhi, India|
+|9 | [Watson School Incubator](https://watson.is/semester-incubator-application/) | USA |
+|10 | [DevMountain](https://devmountain.com/) | UT, AZ, TX |
+|11 | [Product School](https://www.productschool.com) | Online, USA, & Toronto |
+|12 | [HackerYou](https://hackeryou.com/) | Toronto |
+|13 | [BrainStation](https://brainstation.io/) | Online, USA, & Canada |
+|14 | [Lighthouse Labs](https://lighthouselabs.ca/) | Canada |
+|15 | [RED Academy](https://redacademy.com) | Canada |
+|16 | [Flatiron School](https://flatironschool) | Online, USA |
+
+##  Hiring Challenges
+
+|ID| Name  | Location |
+|--|------ |----------|
+|1| [Google Kickstart](https://code.google.com/codejam/kickstart/)| Online |
+|2| [CodeAgon- Codenation Hiring Challenge](https://www.hackerrank.com/codeagon)  | Online |
+|3| [Codhers- Adobe Hiring Challenge](https://www.hackerrank.com/adobe-codhers)  | Online |
+|4| [CodeUrWay- Visa Hiring Challenge](https://www.hackerrank.com/visa-codeurway-2017)  | Online |
+
+---
+
+#  Student Benefits and Programs :fire:
+
+## Campus Ambassador Programs :v:
+1. [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) - Application Deadline - **August**
+2. [GitHub Campus Experts](https://githubcampus.expert/)
+3. [College Representative  - E-Cell IITB](https://www.ecell.in/cr/)
+4. [Internshala Student Partner  -   | ISP](https://internshala.com/)
+5. [Progate Student Ambassador](http://progate.com/)
+6. [ISB - YLP Campus Ambassador Program ](http://www.isb.edu/ylp/CAP)
+7. [GeeksforGeeks Campus Ambassador](https://www.geeksforgeeks.org/)
+8. [HackerEarth Campus Ambassador](https://hackerearth.com)
+9. [HackerRank Campus Ambassador](https://hackerrank.com)
+10. [Interviewbit Campus Ambassador](https://www.interviewbit.com/pages/campus-ambassador/)
+11. [Dell Campassadors Program](https://dellfuturist.com/the-dell-campassadors-program)
+12. [Intel Ambassador Program](https://software.intel.com/en-us/ai-academy/ambassadors/apply)
+13. [Codechef Campus Ambassador](https://www.codechef.com/)
+14. [Ingressive Campus Ambassador](https://www.ingressive.co/ingressive-campus-ambassadors/)
+15. [Mozilla Student Ambassador](https://www.mozilla.org/en-US/contribute/studentambassadors/)
+16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
+
+
+## Student Fellowship Programs :v:
+1. [University Innovation Fellowship - Stanford University](http://universityinnovationfellows.org/)
+1. [Teach for India Fellowship]()
+2. [Young India Fellowship]()
+3. [Urban Leaders Fellowship]()
+4. [Facebook fellowship Program - **Only For PHD Scholars**]()
+5. [Legislative Assistants to Members of Parliament (LAMP) Fellowship](http://lamp.prsindia.org/thefellowship)
+6. [Prime Minister’s Rural Fellowship]()
+7. [Azim Premji Foundation Fellowship Program]()
+8. [Stanford-ABC News Global Health and Media Fellowship]()
+
+
+## Scholarships :runner:
+1. [Pytorch Scholarship Challenge - Udacity](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html) Application Deadline - **October 23rd** 9:30PM PST
+2. [Grants, Awards AND Opportunities For Indian/Canadian Scholars](https://www.shastriinstitute.org/grants-awards-and-opportunities-for-indian-canadian-scholars)
+3. [Facebook Developer Circle Scholarship Program - DataScience/Frontend Dev](http://bit.ly/DevCTrainingInterest1)
+4. [Coding Bootcamp Scholarships - Course Report](https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships)
+5. [Apple WWDC Scholarship](https://developer.apple.com/wwdc19/scholarships/) Application Deadline - **Mid-April**
+6. [Technology Scholarship Program - Udacity](https://www.udacity.com/bertelsmann-data-scholarships) Application deadline - **November 6th, 2019**
+7. [Goldman Sachs Global Scholarship and Mentorship Program](https://www.iie.org/Programs/WeTech/STEM-Scholarships-for-Women/Goldman-Sachs-Scholarship) Applications are welcomed in December - January period.
+8. [Grace Hoppers Conference Program](https://ghc.anitab.org/2019-student-academic/scholarships/) Applications are opened in mid-January.
+9. [Facebook Grace Hopper Scholarship 2019](https://www.facebook.com/scholarcorner/posts/2323154047763329?comment_tracking=%7B%22tn%22%3A%22O%22%7D) Applications are opened in March - April before the registration for GHC starts.
+10. [Venkat Panchapakesan Memorial Scholarship](https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship/#!?detail-content-tabby_activeEl=overview) Applications are opened in the period between May and August every year.
+11. [Women Techmakers Scholars Program](https://www.womentechmakers.com/scholars) Applications are opened in June-July every year.
+12. [GHC India Student Scholarships](https://ghcindia.anitab.org/ghci-19-student-scholarships-2/) Applications are opened in the months of May - June every year.
+13. [Adobe India Women-in-Technology Scholarship](https://research.adobe.com/adobe-india-women-in-technology-scholarship/) Application are opened in September - October every year. 
+14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
+
+
+---
+
+#  Open Source Programs
+
+> **For more Detailed Information about the GSOC Organization** - 
+
+ |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
+|-|--|---- |---|---| ------ |
+|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
+|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global | Yes|- | - |
+|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
+|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
+|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
+|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
+|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
+|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
+|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
+| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
+|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
+
+> **For More Open Source Competitons and Programs** - [Click Here](https://github.com/tapasweni-pathak/SOC-Programs) <br />
+
+
+
+---
+
+#  Startup Programs and Incubators :mag_right:
+
+|Id |Name | Organization|
+|-|--|---- |
+|1| [Amity Innovation Incubator](http://www.amity.edu/) | Amity University |
+|2| [Atal Incubation Centre](http://www.aim.gov.in/) | Government |
+|3| [Google LaunchPad Accelerator](https://developers.google.com/programs/launchpad/accelerators/) | Google |
+|4| [Startup Village](https://www.sv.co/) | SV.CO |
+|5| [T HUB ](https://t-hub.co/) | - |
+|6| [Atal Innovation challenge](http://aim.gov.in/overview.php) | NITI, AYOG |
+|7| [Global Entrepreneurship Bootcamp](https://gebootcamp.com/) | Malaysia |
+|8| [Inova Metrópole](https://inova.imd.ufrn.br/parque/inova/) | IMD/UFRN, Brazil |
+
+---
+
+
+# Developer Clubs and Meetups
+
+> ## **Take a moment to search for these clubs on Google and Facebook in your city.**
+
+> ## **Check **Meetup.com** for more events in your locality**
+|Id |            Name Of The Community       |   Area    |
+|---|:---------------------------------------:|:--------:|
+|1 | [Google Developer Group](https://developers.google.com/programs/community/gdg/)|All States|
+|2 | [Mozilla Open Source Community](https://www.mozilla.org/en-US/moss/)|Delhi and Banglore |
+|3 | [Mozilla Campus Clubs](https://campus.mozilla.community/)|-|
+|4 | [Facebook Developer Circle](https://developers.facebook.com/developercircles)|Delhi|
+|5 | [Women Tech Makers](https://womentechmakers.com)|-|
+|6 | [Women Who Code](https://www.womenwhocode.com/)|-|
+|7 | [Women In Tech](https://www.womenintechnology.org/)|-|
+|8 | [Developers Student Club by Google](https://developers.google.com/training/programs/)|All Colleges accross India|
+|9 | [Microsoft Student Technical Community](https://techcommunity.microsoft.com/)|-|
+|10| [Paytm Build for India](https://www.meetup.com/en-AU/Paytm-Build-for-India/)|Delhi and Bangalore|
+|11| [PyDelhi](https://www.meetup.com/pydelhi/events/254577423/)|Delhi|
+|12| [Toastmaster International](https://www.toastmasters.org)|-|
+|13| [Swift Users Group](https://www.meetup.com/topics/swift-language/?_cookie-check=a8aAkZ14Ew1b6cnt)|-|
+|14| [MUG - MongoDB User Group](https://www.meetup.com/topics/mongodb/)|-|
+|15| [Forloop Africa](https://forloop.africa)|-|
+|16| [Women in Tech (Finland)](https://womenintech.fi/)|-|
+|17| [HelsinkiJS](https://meetabit.com/communities/helsinkijs)|-|
+|18| [100 Days of Code](https://www.100daysofcode.com/connect/)|Online|
+|19| [Nerdzão Brazil](https://www.meetup.com/pt-BR/nerdzao/)|-|
+|20| [Girl Develop It](https://www.girldevelopit.com/chapters)|-|
+|21| [R-Ladies](https://rladies.org/)|-|
+|22| [India Linux Users Group Delhi](https://www.linuxdelhi.org/)|Delhi|
+|23| [PyLadies](https://www.pyladies.com/)|Delhi|
+|24| [PyData Delhi](https://pydata.org/delhi2018/)|Delhi|
+|25| [LinuxChix](https://www.linuxchix.org/)|Delhi|
+|26| [Owasp](https://www.owasp.org/index.php/Jaipur)|Jaipur|
+
+ 
+## Would be great if you have something to share ping me or if any broken links please report , Dates are subject to the companies so kindly cross verify 
+ 

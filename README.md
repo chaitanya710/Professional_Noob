@@ -401,34 +401,52 @@ By this point, you should be very able to pick out topics on your own! Here are 
 * Firebase
 
 ## Access virtual labs(Subject wise)
-1. [Computer Organization and Architecture Lab ](http://vlabs.iitkgp.ernet.in/coa/)
-2. [Computer Systems Organization Lab](http://cse11-iiith.vlabs.ac.in/)
-3. [Hybrid Electronics Lab](http://he-coep.vlabs.ac.in/)
-4. [Data structures](http://cse01-iiith.vlabs.ac.in/)
-5  [Advanced Network Technologies Virtual Lab ](http://vlabs.iitkgp.ernet.in/ant/)
-6. [Software Engineering Lab](http://vlabs.iitkgp.ernet.in/se/)
-7. [Artificial Neural Networks Lab](http://cse22-iiith.vlabs.ac.in/)
-8. [Natural Language Processing Lab](http://nlp-iiith.vlabs.ac.in/)
-9. [Image Processing Lab ](http://cse19-iiith.vlabs.ac.in/)
-10.[Computer Graphics](http://cse18-iiith.vlabs.ac.in/)
-11.[Cryptography](http://cse29-iiith.vlabs.ac.in/)
-12.[Computer Programming Lab ](http://cse02-iiith.vlabs.ac.in/)
-13.[Problem Solving Lab ](http://ps-iiith.vlabs.ac.in/)
-14.[Computer Graphics iitb](http://vlabs.iitb.ac.in/vlabs-dev/labs/cglab/index.php)
-15.[Introduction to PHP ](http://vlabs.iitb.ac.in/vlabs-dev/labs/phplab/labs/explist.php)
-16.[Computer Networking And Security](http://vlabs.iitb.ac.in/vlabs-dev/vlab_bootcamp/bootcamp/Byte_Karma/labs/index.html)
-17.[Fundamentals of Computer Networks](http://vlabs.iitb.ac.in/vlabs-dev/labs/computer_network/labs/index.php)
+
+[Computer Organization and Architecture Lab ](http://vlabs.iitkgp.ernet.in/coa/) 
+
+[Computer Systems Organization Lab](http://cse11-iiith.vlabs.ac.in/) 
+
+[Hybrid Electronics Lab](http://he-coep.vlabs.ac.in/) 
+
+[Data structures](http://cse01-iiith.vlabs.ac.in/) 
+
+[Advanced Network Technologies Virtual Lab ](http://vlabs.iitkgp.ernet.in/ant/) 
+
+[Software Engineering Lab](http://vlabs.iitkgp.ernet.in/se/) 
+
+[Artificial Neural Networks Lab](http://cse22-iiith.vlabs.ac.in/) 
+
+[Natural Language Processing Lab](http://nlp-iiith.vlabs.ac.in/) 
+
+[Image Processing Lab](http://cse19-iiith.vlabs.ac.in/) 
+
+[Computer Graphics](http://cse18-iiith.vlabs.ac.in/) 
+
+[Cryptography](http://cse29-iiith.vlabs.ac.in/) 
+
+[Computer Programming Lab ](http://cse02-iiith.vlabs.ac.in/) 
+
+[Problem Solving Lab ](http://ps-iiith.vlabs.ac.in/) 
+
+[Computer Graphics iitb](http://vlabs.iitb.ac.in/vlabs-dev/labs/cglab/index.php) 
+
+[Introduction to PHP ](http://vlabs.iitb.ac.in/vlabs-dev/labs/phplab/labs/explist.php) 
+
+[Computer Networking And Security](http://vlabs.iitb.ac.in/vlabs-dev/vlab_bootcamp/bootcamp/Byte_Karma/labs/index.html) 
+
+[Fundamentals of Computer Networks](http://vlabs.iitb.ac.in/vlabs-dev/labs/computer_network/labs/index.php) 
 
 ## Additional resources for virtual labs
-1. [Complete vlabs list](https://vtu.ac.in/wp-content/uploads/2020/03/VLAB_NITK_VTU_Syllabus-Mapping-_LIST.pdf)
-2. [Microsoft hands on free labs](https://www.microsoft.com/handsonlabs)
-3. [Google free training labs](https://cloud.google.com/training/free-labs)
-4. [MHRD NPTEL Virtual labs](http://www.vlab.co.in/broad-area-computer-science-and-engineering)
-5. [Linux virtul labs](https://linuxacademy.com/hands-on-labs/topic/linux/)
-6. [VM-Ware hands on labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
-7. [Physical networking labs by Cisco](http://www.certexams.com/labs/index.htm)
-8. [Test clue labs](https://www.testclue.com/product-category/online-labs/)(PAID)
+1. [Complete vlabs list](https://vtu.ac.in/wp-content/uploads/2020/03/VLAB_NITK_VTU_Syllabus-Mapping-_LIST.pdf)<br>
+2. [Microsoft hands on free labs](https://www.microsoft.com/handsonlabs)<br>
+3. [Google free training labs](https://cloud.google.com/training/free-labs)<br>
+4. [MHRD NPTEL Virtual labs](http://www.vlab.co.in/broad-area-computer-science-and-engineering)<br>
+5. [Linux virtul labs](https://linuxacademy.com/hands-on-labs/topic/linux/)<br>
+6. [VM-Ware hands on labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)<br>
+7. [Physical networking labs by Cisco](http://www.certexams.com/labs/index.htm)<br>
+8. [Test clue labs](https://www.testclue.com/product-category/online-labs/)(PAID)<br>
 9. [Penetration testing labs](http://hackthebox.org/)
+
 10.[Hacking lab](https://www.hacking-lab.com/)
 
 # Level 4 (Advanced) - Step 8

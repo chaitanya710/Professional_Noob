@@ -437,17 +437,16 @@ By this point, you should be very able to pick out topics on your own! Here are 
 [Fundamentals of Computer Networks](http://vlabs.iitb.ac.in/vlabs-dev/labs/computer_network/labs/index.php) 
 
 ## Additional resources for virtual labs
-1. [Complete vlabs list](https://vtu.ac.in/wp-content/uploads/2020/03/VLAB_NITK_VTU_Syllabus-Mapping-_LIST.pdf)<br>
-2. [Microsoft hands on free labs](https://www.microsoft.com/handsonlabs)<br>
-3. [Google free training labs](https://cloud.google.com/training/free-labs)<br>
-4. [MHRD NPTEL Virtual labs](http://www.vlab.co.in/broad-area-computer-science-and-engineering)<br>
-5. [Linux virtul labs](https://linuxacademy.com/hands-on-labs/topic/linux/)<br>
-6. [VM-Ware hands on labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)<br>
-7. [Physical networking labs by Cisco](http://www.certexams.com/labs/index.htm)<br>
-8. [Test clue labs](https://www.testclue.com/product-category/online-labs/)(PAID)<br>
+1. [Complete vlabs list](https://vtu.ac.in/wp-content/uploads/2020/03/VLAB_NITK_VTU_Syllabus-Mapping-_LIST.pdf)
+2. [Microsoft hands on free labs](https://www.microsoft.com/handsonlabs)
+3. [Google free training labs](https://cloud.google.com/training/free-labs)
+4. [MHRD NPTEL Virtual labs](http://www.vlab.co.in/broad-area-computer-science-and-engineering)
+5. [Linux virtul labs](https://linuxacademy.com/hands-on-labs/topic/linux/)
+6. [VM-Ware hands on labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
+7. [Physical networking labs by Cisco](http://www.certexams.com/labs/index.htm)
+8. [Test clue labs](https://www.testclue.com/product-category/online-labs/)(PAID)
 9. [Penetration testing labs](http://hackthebox.org/)
-
-10.[Hacking lab](https://www.hacking-lab.com/)
+10. [Hacking lab](https://www.hacking-lab.com/)
 
 # Level 4 (Advanced) - Step 8
 ## Do good in the world; hack the planet (1 lifetime)

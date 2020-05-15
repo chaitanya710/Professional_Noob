@@ -1658,6 +1658,25 @@ Contributing to open source projects is a good way to gain experience and also g
 |25| [LinuxChix](https://www.linuxchix.org/)|Delhi|
 |26| [Owasp](https://www.owasp.org/index.php/Jaipur)|Jaipur|
 
+## IMPORTANT FREE E-BOOKS WEBSITES FOR COMPUTER SCIENCE
+1. [Computer science engineering books](https://www.engbookspdf.com/Computer/)
+2. [Computer engineering pdf books](https://www.engineeringbookspdf.com/computer-engineering/)
+3. [Computer science subject wise books](https://b-ok.cc/categories)
+4. [Open textbook library](https://open.umn.edu/opentextbooks/subjects/computer-science-information-systems)
+5. [National Digital library](https://ndl.iitkgp.ac.in/)
+6. [Oxford University open library](https://openlibrary.org/publishers/Oxford_University_Press)
+7. [Directory of open access books](https://www.doabooks.org/)
+
+## IMPORTANT MAGAZINES 
+1. [Computer world](http://www.computerworld.in/)
+2. [Digit](http://www.thinkdigit.com/)
+3. [Computer shopper](http://www.computershopper.co.uk/)
+4. [Developer IQ](http://www.developeriq.in/)
+5. [MIT Technology Review](https://www.technologyreview.com/)
+6. [Linux journal](https://www.linuxjournal.com/magazine)
+7. [PC World](https://www.pcworld.com/premiumcontent/magazines)
+8. [Directory of open access journals](https://doaj.org/)
+9. [CODE Magazine](https://www.codemag.com/magazine)
  
 ## Would be great if you have something to share ping me or if any broken links please report , Dates are subject to the companies so kindly cross verify 
  
